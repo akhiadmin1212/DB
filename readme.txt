@@ -1,0 +1,1 @@
+This is  SQL Lite DB for our Health Care App.
